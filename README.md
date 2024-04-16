@@ -8,5 +8,10 @@
   <a href="https://github.com/Ko_ya_NOL">
     <img height="20" src="https://img.shields.io/github/followers/Ko_ya_NOL?label=follow&logo=github&style=flat" />
   </a>
+<a
   ![](https://github-readme-stats.vercel.app/api/top-langs?username=kouya0205)
+  />
+  <a
+    ![](https://skillicons.dev/icons?i=html,css,js,typescript)
+    />
 </p>
