@@ -8,6 +8,8 @@
   <a href="https://github.com/Ko_ya_NOL">
     <img height="20" src="https://img.shields.io/github/followers/Ko_ya_NOL?label=follow&logo=github&style=flat" />
   </a>
+  [![trophy](https://github-profile-trophy.vercel.app/?username=kouya0205)](https://github.com/ryo-ma/github-profile-trophy)
+  <a/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kouya0205&theme=vue" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kouya0205" />
   <img src="https://skillicons.dev/icons?i=html,css,js,typescript" />
