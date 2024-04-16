@@ -9,7 +9,6 @@
     <img height="20" src="https://img.shields.io/github/followers/Ko_ya_NOL?label=follow&logo=github&style=flat" />
   </a>
    <img src="https://github-profile-trophy.vercel.app/?username=kouya0205" />
-<img src ="https://github.com/kouya0205/github-profile-trophy" />
   <a/>
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kouya0205&theme=vue" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=kouya0205" />
