@@ -6,7 +6,7 @@
     <img height="20" src="https://img.shields.io/twitter/follow/Ko_ya_NOL?label=Twitter&logo=twitter&style=flat" />
   </a>
   <a href="https://github.com/Ko_ya_NOL">
-    <img height="20" src="https://img.shields.io/github/followers/Ko_ya_NOL?label=follow&logo=github&style=flat" />
+    <img height="20" src="https://img.shields.io/github/followers/kouya0205?label=follow&logo=github&style=flat" />
   </a>
    <img src="https://github-profile-trophy.vercel.app/?username=kouya0205" />
   <a/>
