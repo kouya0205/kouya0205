@@ -4,7 +4,7 @@
 
 <div align="center">
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=680&lines=Hi+%F0%9F%91%8B%2C+I'm+Kouy%400205;React+%2F+Next.js+%2F+TypeScript;Building+Web+%26+Mobile+Apps;Exploring+Robotics+%26+AI" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3500&pause=1000&color=58A6FF&center=true&vCenter=true&width=720&lines=Hi+%F0%9F%91%8B%2C+I'm+Kouy%400205;React+%2F+Next.js+%2F+TypeScript;Go+%2F+PHP+(Laravel)+%2F+Ruby+(Rails);Building+Web+%26+Mobile+Apps;Exploring+Robotics+%26+AI" alt="Typing SVG" />
 
   <br />
 
@@ -24,9 +24,10 @@
 ## About Me
 
 愛知県を拠点に、**React / React Native / Next.js** を軸とした Web・モバイルアプリ開発をしています。  
-TypeScript を中心にフルスタック寄りのプロダクトづくりが得意で、最近は **ロボティクス（VR テレオペ）** や **AI** にも挑戦中です。
+TypeScript に加え、**Go / PHP (Laravel) / Ruby (Rails)** での開発経験もあり、最近は **ロボティクス（VR テレオペ）** や **AI** にも挑戦中です。
 
-- Frontend engineer focusing on **React / Next.js / TypeScript**
+- Frontend & fullstack: **React / Next.js / TypeScript**
+- Backend frameworks: **Go · Laravel · Ruby on Rails**
 - Building web apps, mobile apps (Expo), and hackathon products
 - Exploring **robot teleoperation**, datasets, and AI tooling
 - Based in **Aichi, Japan**
@@ -40,6 +41,9 @@ TypeScript を中心にフルスタック寄りのプロダクトづくりが得
 <p>
   <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white" alt="PHP" />
+  <img src="https://img.shields.io/badge/Ruby-CC342D?style=for-the-badge&logo=ruby&logoColor=white" alt="Ruby" />
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=black" alt="C" />
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
@@ -62,14 +66,19 @@ TypeScript を中心にフルスタック寄りのプロダクトづくりが得
 <img src="https://img.shields.io/badge/Radix%20UI-161618?style=flat-square&logo=radixui&logoColor=white" alt="Radix UI" />
 <img src="https://img.shields.io/badge/styled--components-DB7093?style=flat-square&logo=styledcomponents&logoColor=white" alt="styled-components" />
 
-### Backend & Data
+### Backend & Frameworks
 
 <p>
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=nodejs,express,prisma,mongodb,firebase,supabase,postgres,socketio" alt="Backend skills" />
+    <img src="https://skillicons.dev/icons?i=go,php,laravel,ruby,rails,nodejs,express,prisma,mongodb,firebase,postgres,socketio" alt="Backend skills" />
   </a>
 </p>
 
+<img src="https://img.shields.io/badge/Go-00ADD8?style=flat-square&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white" alt="PHP" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white" alt="Laravel" />
+<img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=ruby&logoColor=white" alt="Ruby" />
+<img src="https://img.shields.io/badge/Ruby%20on%20Rails-D30001?style=flat-square&logo=rubyonrails&logoColor=white" alt="Ruby on Rails" />
 <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
 <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
 <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" />
@@ -126,23 +135,37 @@ TypeScript を中心にフルスタック寄りのプロダクトづくりが得
 
 ## GitHub Stats
 
+<!--
+  Official *.vercel.app endpoints are often paused/disabled.
+  Using community mirrors + repo-local summary cards for reliability.
+-->
+
 <div align="center">
 
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=kouya0205&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=kouya0205&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api?username=kouya0205&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub stats" />
+  <img height="180" src="https://github-readme-stats.shion.dev/api/top-langs/?username=kouya0205&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" alt="Top languages" />
 
 </div>
 
 <div align="center">
-  <img height="160" src="https://github-readme-streak-stats.herokuapp.com/?user=kouya0205&theme=tokyonight&hide_border=true" alt="GitHub streak" />
+  <img height="160" src="https://streak-stats.demolab.com/?user=kouya0205&theme=tokyonight&hide_border=true" alt="GitHub streak" />
 </div>
 
 <div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=kouya0205&theme=tokyonight" alt="Profile details" />
+  <img src="./profile-summary-card-output/tokyonight/0-profile-details.svg" alt="Profile details" width="820" />
 </div>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=kouya0205&theme=tokyonight&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=true" alt="GitHub trophies" />
+  <img src="./profile-summary-card-output/tokyonight/1-repos-per-language.svg" alt="Repos per language" width="400" />
+  <img src="./profile-summary-card-output/tokyonight/3-stats.svg" alt="Summary stats" width="400" />
+</div>
+
+<div align="center">
+  <img src="./profile-summary-card-output/tokyonight/4-productive-time.svg" alt="Productive time" width="820" />
+</div>
+
+<div align="center">
+  <img src="https://github-profile-trophy-orcin-eta.vercel.app/?username=kouya0205&theme=tokyonight&column=7&margin-w=12&margin-h=12&no-bg=true&no-frame=true" alt="GitHub trophies" />
 </div>
 
 ---
